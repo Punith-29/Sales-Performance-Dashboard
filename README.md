@@ -93,7 +93,7 @@ The dataset includes:
 
 ## 👨‍💻 Author
 
-**Punit Kanna**
+** Suryavamshi Punith **
 
 B.Tech – Artificial Intelligence & Machine Learning
 
